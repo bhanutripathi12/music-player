@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="songs">Songs</string>
+    <string name="no_songs_found">No Songs Found</string>
+</resources>
